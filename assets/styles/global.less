@@ -1,0 +1,38 @@
+@body-font: 'Open Sans', sans-serif;
+@header-font: 'Comfortaa', cursive;
+
+body {
+  margin: 0;
+  font-family: @body-font;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: @header-font;
+  }
+
+  .go-to-link {
+    font-family: @header-font;
+    color: #3e4c9b;
+    text-decoration: none;
+    transition: all 0.4s ease-out;
+    &:hover {
+      color: #d53231;
+      letter-spacing: 5px;
+    }
+  }
+
+  .underline {
+    text-decoration: underline;
+  }
+
+  .block {
+    display: block;
+  }
+
+  .container {
+    text-align: center;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+}
