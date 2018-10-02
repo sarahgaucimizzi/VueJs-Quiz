@@ -31,7 +31,10 @@ $ npm start
 
 ## Preview
 
-https://sarahmizzi.com/assets/Quiz-desktop.gif
+![frontpage](https://i.imgur.com/dPz6P6d.jpg)
+![quiz](https://i.imgur.com/Znzn9m3.png)
+![finished](https://i.imgur.com/YlXHFpw.png)
+![error](https://i.imgur.com/ddlnixJ.png)
 
 ## Credits
 
