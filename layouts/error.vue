@@ -1,12 +1,14 @@
 <template>
   <main class="layout">
-    Seems like you got lost in the Unknown Regions.
-    R2-D2 suggests going&nbsp;
-    <nuxt-link
-      to="/"
-      class="go-to-link">
-      back
-    </nuxt-link>
+    <p>
+      Seems like you got lost in the Unknown Regions.
+      R2-D2 suggests going&nbsp;
+      <nuxt-link
+        to="/"
+        class="go-to-link">
+        back
+      </nuxt-link>
+    </p>
   </main>
 </template>
 
@@ -16,5 +18,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
+  text-align: center;
 }
 </style>
