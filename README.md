@@ -31,11 +31,11 @@ $ npm start
 
 ## Preview
 
-![preview](https://sarahmizzi.com/assets/Quiz-desktop.gif)
+https://sarahmizzi.com/assets/Quiz-desktop.gif
 
 ## Credits
 
-###Image sources
+### Image sources
 
 https://www.behance.net/gallery/43155769/Le-Cosmos-de-Star-Wars-II
 https://www.iconfinder.com/icons/216972/jedi_light_saber_red_sith_sword_icon
