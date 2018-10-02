@@ -1,22 +1,34 @@
-# quiz
+# Quiz
 
-> VueJs Quiz
+> A VueJs Star Wars Quiz
 
-## Build Setup
+## Run Quiz
 
 ``` bash
 # install dependencies
 $ npm install
 
-# serve with hot reload at localhost:3000
+# Dev env - localhost:3000
 $ npm run dev
 
-# build for production and launch server
+# Else build and start - localhost:3000
 $ npm run build
 $ npm start
 
-# generate static project
-$ npm run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+## Features
+
+- Firestore
+- Firebase Cloud Function
+- Parallax effect on frontpage
+- Multiple choice questions
+- Get final score and ranking
+- Mobile responsive
+
+## Credits
+
+Image sources: 
+https://www.behance.net/gallery/43155769/Le-Cosmos-de-Star-Wars-II
+https://www.iconfinder.com/icons/216972/jedi_light_saber_red_sith_sword_icon
+https://www.iconfinder.com/iconsets/starwars
