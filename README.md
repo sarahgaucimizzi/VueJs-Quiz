@@ -31,6 +31,8 @@ $ npm start
 
 ## Preview
 
+http://104.223.6.215:3000/
+
 ![frontpage](https://i.imgur.com/dPz6P6d.jpg)
 ![quiz](https://i.imgur.com/Znzn9m3.png)
 ![finished](https://i.imgur.com/YlXHFpw.png)
