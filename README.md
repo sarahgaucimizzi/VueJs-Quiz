@@ -31,7 +31,7 @@ $ npm start
 
 ## Preview
 
-http://104.223.6.215:3000/
+https://quiz.sarahmizzi.com/
 
 ![frontpage](https://i.imgur.com/dPz6P6d.jpg)
 ![quiz](https://i.imgur.com/Znzn9m3.png)
