@@ -31,8 +31,6 @@ $ npm start
 
 ## Preview
 
-https://quiz.sarahmizzi.com/
-
 ![frontpage](https://i.imgur.com/dPz6P6d.jpg)
 ![quiz](https://i.imgur.com/Znzn9m3.png)
 ![finished](https://i.imgur.com/YlXHFpw.png)
